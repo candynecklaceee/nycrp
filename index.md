@@ -1,4 +1,4 @@
 ---
-**Welcome to nycrp!!**
+title: **Welcome to nycrp!!**
 ---
 
